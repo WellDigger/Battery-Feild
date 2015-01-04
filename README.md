@@ -1,4 +1,4 @@
-Battery-Feild
+Battery-Field
 =============
 
 Battery Field is a Battery utility for Mac, it turns your mac into a NERV customized version
